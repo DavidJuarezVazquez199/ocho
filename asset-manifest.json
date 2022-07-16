@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Tiendastar/static/css/main.21652043.css",
-    "main.js": "/Tiendastar/static/js/main.1c076c84.js",
-    "index.html": "/Tiendastar/index.html",
-    "main.21652043.css.map": "/Tiendastar/static/css/main.21652043.css.map",
-    "main.1c076c84.js.map": "/Tiendastar/static/js/main.1c076c84.js.map"
+    "main.css": "/ocho/static/css/main.21652043.css",
+    "main.js": "/ocho/static/js/main.1c076c84.js",
+    "index.html": "/ocho/index.html",
+    "main.21652043.css.map": "/ocho/static/css/main.21652043.css.map",
+    "main.1c076c84.js.map": "/ocho/static/js/main.1c076c84.js.map"
   },
   "entrypoints": [
     "static/css/main.21652043.css",
