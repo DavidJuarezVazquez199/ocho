@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tiendastar/static/css/main.21652043.css",
+    "main.js": "/Tiendastar/static/js/main.1c076c84.js",
+    "index.html": "/Tiendastar/index.html",
+    "main.21652043.css.map": "/Tiendastar/static/css/main.21652043.css.map",
+    "main.1c076c84.js.map": "/Tiendastar/static/js/main.1c076c84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21652043.css",
+    "static/js/main.1c076c84.js"
+  ]
+}
